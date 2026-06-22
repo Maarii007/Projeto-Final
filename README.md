@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Desenvolvido por
 
-**Mari** · Engenharia de Software · Unicesumar · 7º período · 2026
+**Maria Clara** · Engenharia de Software · Unicesumar · 7º período
 *Projeto acadêmico — Programação para Dispositivos Móveis · Unicesumar · 2026*
 
 </div>
